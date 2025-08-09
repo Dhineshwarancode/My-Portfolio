@@ -499,7 +499,7 @@ function App() {
               className="px-8 py-4 border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-full font-semibold hover:bg-purple-50 dark:hover:bg-gray-800 transition-all duration-300"
               onClick={() =>
                 window.open(
-                  "https://github.com/Dhineshwarancode/deliver-food",
+                  "https://github.com/Dhineshwarancode",
                   "_blank"
                 )
               }
@@ -775,7 +775,7 @@ function App() {
                   "Responsive portfolio with animations and dark mode",
                 technologies: ["React", "Framer Motion", "Tailwind", "EmailJS"],
                 image: "💼",
-                repo: "https://github.com/Dhineshwarancode/Portfolio",
+                repo: "https://github.com/Dhineshwarancode/My-Portfolio",
               },
               {
                 title: "Quiz Management",
@@ -1199,7 +1199,7 @@ function App() {
           >
             <p className="text-gray-600 dark:text-gray-400 flex items-center justify-center space-x-2">
               <span>© 2025 My Portfolio</span>
-              
+
               <span>Dhineshwaran M</span>
             </p>
           </motion.div>
